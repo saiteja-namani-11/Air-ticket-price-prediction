@@ -108,4 +108,4 @@ The project successfully developed a model to predict air ticket prices with imp
 
 ## Contact
 
-For any questions or further information, please contact Saiteja Namani at [your email address].
+For any questions or further information, please contact at namani.teja19@gmail.com.
